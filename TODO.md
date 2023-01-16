@@ -1,5 +1,5 @@
 ### Co pojawi się w przyszłych w wersjach:
-* **zmiana infrasuktury apliakcji** - dodanie klasy, metod 
+* **zmiana infrastruktury apliakcji** - dodanie klasy, metod 
 * **dodanie wyjątków** - umożliwiających lepszą pracę aplikacji
 * **rozwinięcie bazy danych** - zapisywanie wyszukiwanych dotychczas restauracji, utworzenie tabeli z id restauracji
 * **dopracowanie analizy sentymentu poszczególnych kategorii** - połączenie pewnych kategorii, dokładniejsze określanie ich cech, dodanie większych szczegułów odnośnie co powinno być zmienione
