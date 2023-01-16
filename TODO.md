@@ -7,3 +7,4 @@
 * **wizualizacja danych** - dodanie wykresów, więcej analizy
 * **dokładniejsze wyszukiwanie** - czy dana restauracja istnieje, możliwośc wpisania adresu lub nie, 
 * **opcja wyszukiwania restauracji z daną ilością gwiazdek z konkretnego miasta** - pomysł na rozwinięcie aplikacji
+* **testy**
